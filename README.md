@@ -1,2 +1,2 @@
-# pythonProjectScrapyL
+# pythonProjectScrapySvet
 домашнее задание PS05
